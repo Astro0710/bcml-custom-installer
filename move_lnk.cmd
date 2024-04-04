@@ -1,0 +1,1 @@
+MOVE /Y C:\Windows\Temp\BCML.lnk, %USERPROFILE%/Desktop/BCML.lnk
